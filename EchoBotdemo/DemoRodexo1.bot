@@ -1,0 +1,18 @@
+{
+    "name": "DemoRodexo1",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "f85fd0a0-0d38-11ea-887d-4188b3bacde6",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\rafael.lima\\Desktop\\Rodexo\\Dev\\Bot\\EchoBotdemo\\DemoRodexo1.bot"
+}

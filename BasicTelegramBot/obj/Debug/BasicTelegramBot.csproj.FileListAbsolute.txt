@@ -1,0 +1,11 @@
+C:\Users\rafael.lima\Desktop\Rodexo\Dev\Bot\BasicTelegramBot\bin\Debug\BasicTelegramBot.exe.config
+C:\Users\rafael.lima\Desktop\Rodexo\Dev\Bot\BasicTelegramBot\bin\Debug\BasicTelegramBot.exe
+C:\Users\rafael.lima\Desktop\Rodexo\Dev\Bot\BasicTelegramBot\bin\Debug\BasicTelegramBot.pdb
+C:\Users\rafael.lima\Desktop\Rodexo\Dev\Bot\BasicTelegramBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rafael.lima\Desktop\Rodexo\Dev\Bot\BasicTelegramBot\bin\Debug\Telegram.Bot.dll
+C:\Users\rafael.lima\Desktop\Rodexo\Dev\Bot\BasicTelegramBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rafael.lima\Desktop\Rodexo\Dev\Bot\BasicTelegramBot\bin\Debug\Telegram.Bot.xml
+C:\Users\rafael.lima\Desktop\Rodexo\Dev\Bot\BasicTelegramBot\obj\Debug\BasicTelegramBot.csprojAssemblyReference.cache
+C:\Users\rafael.lima\Desktop\Rodexo\Dev\Bot\BasicTelegramBot\obj\Debug\BasicTelegramBot.csproj.CopyComplete
+C:\Users\rafael.lima\Desktop\Rodexo\Dev\Bot\BasicTelegramBot\obj\Debug\BasicTelegramBot.exe
+C:\Users\rafael.lima\Desktop\Rodexo\Dev\Bot\BasicTelegramBot\obj\Debug\BasicTelegramBot.pdb
